@@ -4,6 +4,16 @@
     box-sizing: border-box;
 }
 
+:root {
+    --main-background-color:#000000;
+   --secondary-background-color: #70EEB3;
+    --title-color:#28EB90;
+    --subtitle-color: #28EB90;
+    --text-color:  #1FB870;
+    --button-color: #09824A;
+    --button-text-color: #8CEEB8;
+}
+
 .button {
     padding: 1.2rem 2rem;
 }
